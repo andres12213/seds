@@ -1,5 +1,0 @@
-{"properties": [{
-  "name": "rabbit.cola",
-  "type": "java.lang.String",
-  "description": "Nombre de la cola de rabbitMQ"
-}]}
